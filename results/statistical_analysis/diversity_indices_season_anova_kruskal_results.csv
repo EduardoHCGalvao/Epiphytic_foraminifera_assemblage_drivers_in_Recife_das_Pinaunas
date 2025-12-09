@@ -1,5 +1,0 @@
-"Variable","Shapiro_P","Test","Statistic","P_value"
-"shannon","0.2331","ANOVA",9.7359,"0.0042"
-"number_of_species","0.1691","ANOVA",9.3908,"0.0048"
-"evenness","0.0194","Kruskal-Wallis",0.3136,"0.5755"
-"margalef","0.6886","ANOVA",15.5386,"4.91e-04"

@@ -1,7 +1,0 @@
-"Variable","Season_P","Environment_P","Interaction_P"
-"temperature","0.0743",0.7733,0.998
-"salinity","0.1079",0.0119,0.8962
-"pH","0.3031",0.0045,0.4041
-"dissolved_o2","2.14e-04",0.0015,0.0511
-"suspended_solids","0.1448",0.2852,0.7041
-"sediment_particle_size","0.1178",0.7536,0.8056
