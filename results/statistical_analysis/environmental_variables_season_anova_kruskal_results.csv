@@ -1,0 +1,7 @@
+"Variable","Shapiro_P","Test","Statistic","P_value"
+"temperature","0.4457","ANOVA",3.9763,0.056
+"salinity","0.0013","Kruskal-Wallis",3.2555,0.0712
+"pH","0.0029","Kruskal-Wallis",1.8744,0.171
+"dissolved_o2","0.3573","ANOVA",11.0422,0.0025
+"suspended_solids","5.76e-05","Kruskal-Wallis",3.7208,0.0537
+"sediment_particle_size","0.0311","Kruskal-Wallis",2.3558,0.1248
