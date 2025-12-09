@@ -1,15 +1,9 @@
-# Microgastropod assemblages within the little-studied Camamu Bay, Brazil
+# Epiphytic foraminifera assemblage drivers in Recife das Pinaunas, Brazil
 
 This repository contains the data analysis and code supporting the paper:  
-**“Investigating spatial and seasonal differences in Microgastropod assemblages within the little-studied Camamu Bay, Brazil: a potential bioindicator for remote tropical areas?”**
+**“Epiphytic foraminifera assemblage drivers in Recife das Pinaunas, Brazil”**
 
-This study investigates the spatial and seasonal variation in the assemblages of benthic **microgastropods (snails <5–10 mm in length)** within a poorly-studied tropical bay. As these organisms are abundant, diverse, and relatively easy to sample, with well-established taxonomy, they may prove a highly suitable group for ecological studies in such areas.
-
-Sediment samples were collected from three river basins in Camamu Bay, Brazil, during wet and dry seasons. A total of 132 microgastropods species were recorded, demonstrating high diversity.
-
-Statistical analysis revealed significant seasonal and spatial differences in diversity and assemblage composition, which correlated with environmental gradients. The results suggest that microgastropods are a suitable component of the biota for ecological and applied studies in marine sediments, particularly in remote tropical locations where full macrofaunal analysis may be challenging. Whilst further testing across impact gradients is needed, this approach offers a practical solution for ecological investigations in regions with limited taxonomic expertise and sampling capabilities, and highlights microgastropods as a useful indicator taxon for impact biomonitoring in tropical marine sediments.
-
-It explores how environmental variables influence assemblage structure, diversity, and composition in benthic ecosystems of remote tropical estuaries.
+This study investigates the spatial and seasonal variation in the assemblages of Epiphytic Foraminifera
 
 ---
 
